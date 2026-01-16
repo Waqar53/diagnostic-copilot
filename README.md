@@ -1,4 +1,4 @@
-# Diagnostic AI Copilot 🏥
+# Diagnostic Copilot 
 
 > **AI-powered chest X-ray analysis for diagnostic decision support**
 
@@ -9,13 +9,13 @@
 
 ![Diagnostic AI Copilot Demo](docs/demo.png)
 
-## ⚠️ Medical Disclaimer
+## Medical Disclaimer
 
 **This system is for educational and research purposes only.** It is NOT a substitute for professional medical diagnosis or treatment. All AI-generated analyses require review by qualified healthcare professionals.
 
 ---
 
-## 🎯 What It Does
+##  What It Does
 
 Diagnostic AI Copilot analyzes chest X-rays using deep learning and provides:
 
@@ -99,7 +99,7 @@ diagnostic-copilot/
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 ### Architecture
 
@@ -161,7 +161,7 @@ Full API documentation available at `/docs` (Swagger UI).
 
 ---
 
-## 🛡️ Safety Features
+## Safety Features
 
 1. **Medical Disclaimers**: Every output includes clear disclaimers
 2. **Uncertainty Quantification**: Monte Carlo Dropout for confidence intervals
@@ -171,7 +171,7 @@ Full API documentation available at `/docs` (Swagger UI).
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -181,7 +181,7 @@ Full API documentation available at `/docs` (Swagger UI).
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing`)
